@@ -21,6 +21,7 @@
   },
   "plugins": ["@typescript-eslint", "prettier"],
   "rules": {
+    "array-callback-return": "off",
     "@typescript-eslint/no-unused-vars": [
       "error",
       {
